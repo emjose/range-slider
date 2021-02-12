@@ -8,7 +8,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 98vh;
   background: #151515;
   font-family: "Poller One", cursive;
 }
@@ -24,15 +24,14 @@ div {
   font-weight: 400;
 }
 .range {
-  width: 50rem;
+  width: 45rem;
   /* width was 400px */
   height: 20px;
-  background: rgb(87, 87, 87, 0.7);
+  background: rgba(117, 117, 117, 0.5);
   outline: none;
   border-radius: 15px;
   overflow: hidden;
-
-  box-shadow: inset 0 0 5px rgba(0, 0, 0, 1);
+  box-shadow: inset 0 0 5px rgb(228, 149, 2);
   -webkit-appearance: none;
 }
 .range::-webkit-slider-thumb {
@@ -40,9 +39,9 @@ div {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background: #fda400;
+  background: rgb(240, 158, 7);
   cursor: pointer;
-  border: 4px solid #333;
+  border: 4px solid rgb(255, 255, 255);
   box-shadow: -407px 0 0 400px #fda400;
 }
 
