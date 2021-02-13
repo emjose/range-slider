@@ -30,6 +30,7 @@ div {
   /* color: rgb(255, 255, 255); */
   font-weight: 400;
   background: #ffd900;
+  line-height: 0.9;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
