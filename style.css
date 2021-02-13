@@ -30,10 +30,18 @@ div {
   /* color: rgb(255, 255, 255); */
   font-weight: 400;
   margin-right: 30px;
-  background: #ffd900;
+  /* background: #ffd900; */
   line-height: 0.8;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  /* -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text; */
+  color: #fddc1f;
+  text-shadow: 
+
+  /*long soft bottom*/ 1px 10px 30px rgba(88, 88, 88, 0.4),
+    1px 10px 70px rgba(88, 88, 88, 0.4),
+    /*short soft bottom*/ 0px 5px 5px rgba(88, 88, 88, 0.4),
+    /*left shadow*/ -5px 5px 20px rgba(88, 88, 88, 0.4),
+    /*right shadow*/ 5px 5px 20px rgba(88, 88, 88, 0.4);
 }
 
 /* #ffd900; */
@@ -74,9 +82,17 @@ div {
   /* margin-left: 15px; */
   margin-right: 15px;
   text-transform: uppercase;
-  background: #ffd900;
+  /* background: #ffd900;
   -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  -webkit-background-clip: text; */
+  color: #fddc1f;
+  text-shadow: 
+
+  /*long soft bottom*/ 1px 10px 30px rgba(88, 88, 88, 0.4),
+    1px 10px 70px rgba(88, 88, 88, 0.4),
+    /*short soft bottom*/ 0px 5px 5px rgba(88, 88, 88, 0.4),
+    /*left shadow*/ -5px 5px 20px rgba(88, 88, 88, 0.4),
+    /*right shadow*/ 5px 5px 20px rgba(88, 88, 88, 0.4);
 }
 
 .lasttext {
@@ -89,9 +105,17 @@ div {
   /* margin-left: 15px; */
   margin-bottom: 20px;
   text-transform: uppercase;
-  background: #ffd900;
+  /* background: #ffd900;
   -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
+  -webkit-background-clip: text; */
+  color: #fddc1f;
+  text-shadow: 
+
+  /*long soft bottom*/ 1px 10px 30px rgba(88, 88, 88, 0.4),
+    1px 10px 70px rgba(88, 88, 88, 0.4),
+    /*short soft bottom*/ 0px 5px 5px rgba(88, 88, 88, 0.4),
+    /*left shadow*/ -5px 5px 20px rgba(88, 88, 88, 0.4),
+    /*right shadow*/ 5px 5px 20px rgba(88, 88, 88, 0.4);
 }
 
 .wrapper {
