@@ -34,7 +34,12 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+### Day 11: February 16, 2021
+- In January 2021, I used to count the number of job rejection emails I received.
+
+- To overcome self-doubt, I turned a custom range slider into a visual affirmation of the job offers that await in the future. 
+  
+- For the background, I used stock video footage from <a href="https://www.pexels.com/videos">Pexels</a>.
 
 #
 
@@ -57,7 +62,7 @@ open index.html
 
 <a href="https://emjose.github.io/range-slider/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/range-slider/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/range-slider/">![Live Site](Assets/011-slider.gif)</a>
 
 #
 
@@ -65,7 +70,13 @@ open index.html
 
 <a href=#resources>![Live Site](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [Google Fonts](https://fonts.google.com/)
+  
+- #### [Pexels Stock Video Footage](https://www.pexels.com/videos)
+  
+- #### [Coverr Stock Video Footage](https://coverr.co/)
+  
+- #### [Custom Range Tutorial](https://youtu.be/FoVD6EediHQ) by [Bikki Mahato](https://www.youtube.com/channel/UCyqF2LpJUITO-6l28KSz8bQ)
 
 #
 

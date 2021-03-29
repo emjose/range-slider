@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&family=Poller+One&display=swap");
 @import url("https://use.typekit.net/eia7dfc.css");
-@import url("https://use.typekit.net/eia7dfc.css");
-@import url("https://use.typekit.net/eia7dfc.css");
+
 /* font-family: 'Archivo Black', sans-serif;
 font-family: 'Bebas Neue', cursive;
 font-family: 'Poller One', cursive; */
@@ -160,7 +159,4 @@ div {
   min-width: 177.6vh;
   min-height: 100vh;
   transform: translate(-50%, -50%);
-}
-
-.video-overlay {
 }
