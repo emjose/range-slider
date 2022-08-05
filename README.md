@@ -39,6 +39,7 @@
 -   In January 2021, I used to count the number of job rejection emails I received.
 
 -   To overcome self-doubt, I turned a custom range slider into a visual affirmation of the job offers that await in the future.
+
 -   For the background, I used stock video footage from <a href="https://www.pexels.com/videos">Pexels</a>.
 
 #
@@ -49,13 +50,13 @@
 
 #### Git clone and cd into the repo folder:
 
-```
+```console
 git clone git@github.com:emjose/range-slider.git && cd range-slider
 ```
 
 #### Run the command:
 
-```
+```console
 open index.html
 ```
 
