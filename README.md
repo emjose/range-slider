@@ -28,6 +28,8 @@
 -   [Resources](#resources)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -41,6 +43,8 @@
 -   To overcome self-doubt, I turned a custom range slider into a visual affirmation of the job offers that await in the future.
 
 -   For the background, I used stock video footage from <a href="https://www.pexels.com/videos">Pexels</a>.
+
+<br>
 
 #
 
@@ -60,6 +64,8 @@ git clone git@github.com:emjose/range-slider.git && cd range-slider
 open index.html
 ```
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -68,6 +74,12 @@ open index.html
 
 <a href="https://emjose.github.io/range-slider/">![Live Site](Assets/011-slider.gif)</a>
 
+• The **[Range Slider](https://emjose.github.io/range-slider/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+• The **[Range Slider](https://emjose.github.io/range-slider/)** is responsive and keyboard-navigable.
+
+<br>
+
 #
 
 <p id="resources"><p>
@@ -75,11 +87,16 @@ open index.html
 <a href=#resources>![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314247/Readme%20Headers/inter-resources_ncevbw.png)</a>
 
 -   #### [Google Fonts](https://fonts.google.com/)
+
 -   #### [Pexels Stock Video Footage](https://www.pexels.com/videos)
+
 -   #### [Coverr Stock Video Footage](https://coverr.co/)
+
 -   #### [Custom Range Tutorial](https://youtu.be/FoVD6EediHQ) by [Bikki Mahato](https://www.youtube.com/channel/UCyqF2LpJUITO-6l28KSz8bQ)
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+
+<br>
 
 #
 
